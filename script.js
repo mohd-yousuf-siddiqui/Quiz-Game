@@ -175,4 +175,8 @@ function restartQuiz() {
   resultScreen.classList.remove("active");
 
   startQuiz();
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c0ea902 (Updated Code)
